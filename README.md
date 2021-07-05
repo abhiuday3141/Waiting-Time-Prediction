@@ -16,6 +16,9 @@ Achieved a mean absolute error of **3.34 minutes** from the random forest model
 
 ## Data Representation
 
+
 ![Screenshots](Screenshots/data1.png)
+
 ![Screenshots](Screenshots/data2.png)
+
 ![Screenshots](Screenshots/data3.png)
